@@ -15,6 +15,6 @@
   publish   = "out_publish"
 
 [dev]
-  functions = "out_functions"
-  publish   = "out_publish"
+  functions = "build"
+  publish   = "build"
   framework = "#static"
